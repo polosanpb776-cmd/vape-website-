@@ -1,9 +1,0 @@
-vape-website/
-├─ index.html
-├─ style.css
-├─ script.js
-└─ assets/
-    └─ images/
-        ├─ device.png
-        ├─ liquid.png
-        └─ map.png
